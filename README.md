@@ -4,7 +4,7 @@
 - [HTML Forms](https://codepen.io/dervondenbergen/pen/DmrRjP?editors=1000)
 
 ## CSS3
-- [CSS Box Model]https://www.w3schools.com/css/css_boxmodel.asp)
+- [CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
 - [CSS Box-Sizing](https://www.w3schools.com/cssref/css3_pr_box-sizing.php)
 - [CSS Media Queries](https://www.w3schools.com/css/css3_mediaqueries.asp)
 - [CSS Transforms](https://www.w3schools.com/css/css3_2dtransforms.asp)
